@@ -1,0 +1,5 @@
+The modified German keyboard layout script is designed to allow users to type Danish characters on a standard German keyboard layout. The script maps the Danish characters æ, ø, and å to specific key combinations that are easy to remember and access. When the user presses and holds the AltGr key, and then types the corresponding letter key (a, o, or ö), the script generates the corresponding Danish symbol.
+
+For example, to type the Danish character "æ," the user would press and hold the AltGr key, and then press the "a" key. Similarly, to type the Danish character "ø," the user would press and hold the AltGr key, and then press the "o" key. And to type the Danish character "å," the user would press and hold the AltGr key, and then press the "ö" key.
+
+This modified keyboard layout can be useful for those who need to communicate in both German and Danish and want to be able to easily access special characters without needing to switch keyboard layouts or use complicated key combinations. With this script, users can type Danish characters quickly and easily using a standard German keyboard layout.
